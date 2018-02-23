@@ -2,6 +2,7 @@
 
 <!-- creating a list of items for each cheeseDictionary in the Cheeses List -->
 <ul>
+  <!-- notice that the TYPE of the 'cheese' element in the foreach is Cheese -->
   @foreach (Cheese cheese in ViewBag.Cheeses) {
     <li>@cheese.Name: @cheese.Description</li>
   }
