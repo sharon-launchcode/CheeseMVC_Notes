@@ -1,0 +1,10 @@
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.csproj.CoreCompileInputs.cache
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.AssemblyInfoInputs.cache
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.AssemblyInfo.cs
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.deps.json
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.runtimeconfig.json
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.runtimeconfig.dev.json
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.dll
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/bin/Debug/netcoreapp2.0/CheeseMVC.pdb
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.dll
+/Users/vamp/Documents/Code/LaunchCode/unit3/CheeseMVC/obj/Debug/netcoreapp2.0/CheeseMVC.pdb

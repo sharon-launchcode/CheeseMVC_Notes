@@ -1,0 +1,8 @@
+<p><a asp-controller="Cheese" asp-action="Add">Add Cheese</a></p>
+
+<!-- creating a list of items for each cheeseDictionary in the Cheeses List -->
+<ul>
+  @foreach (Cheese cheese in ViewBag.Cheeses) {
+    <li>@cheese.Name: @cheese.Description</li>
+  }
+</ul>
